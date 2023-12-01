@@ -1,0 +1,119 @@
+/* unorder list */
+/* ul{
+    list-style-type: square;
+} */
+
+/* order list */
+/* ol{
+    list-style-type: lower-roman;
+} */
+
+/* images for bultes */
+/* ul{
+    list-style-image: url('./icon.jpg');
+}
+li{
+    margin: 10px 0px 0px 0px;
+} */
+
+/* list-style-position */
+/* .illuminations{
+    list-style-position: outside;
+}
+.season{
+list-style-position: inside;
+} */
+
+/* list short hand */
+/* ul {
+    list-style: inside square;
+    width: 300px;} */
+
+    /* table propertie */
+    /* table{
+        width: 600px;
+        
+        padding: 20px;
+        text-transform: capitalize;
+        font-size: xx-large;
+        border-top: 1px solid red;
+        border-bottom: 1px solid green;
+    } */
+
+    /* table, td, th{
+        border: 1px solid red;
+        border-collapse: collapse;
+        text-align: left;
+    } */
+/* table{
+    background-color:aqua} */
+
+    /* tr:hover{
+        background-color: wheat;
+        cursor:pointer;
+    } */
+/* td{
+    padding: 10px;
+} */
+/* th{
+    background-color: black;
+    color:white;
+} */
+
+/* .even{
+    background-color: black;
+    color: wheat;
+} */
+/* gaps between cells */
+/* td {
+    background-color: #0088dd;
+    padding: 15px;
+    border: 2px solid #000000;}
+    table {
+    border-spacing: 5px 15px;
+    border-collapse: collapse;} */
+
+    /* styling forms */
+    #ln{
+        margin-top: 5px;
+    }
+    /* input{
+        font-size: xx-large;
+        color: red;
+        background-color: black;
+        color:white;
+    } */
+
+    /* input{
+        border: 5px solid red;
+        border-radius: 10px;
+    } */
+
+    /* input:hover{
+        background-color: lightblue;
+    }
+
+    input:focus{
+        border:5px solid red;
+        outline:none;
+    } */
+
+    /* Styling Fieldsets & Legends */
+    /* fieldset {
+        width: 350px;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: right;}
+        legend {
+        background-color: #efefef;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 10px 20px;
+        text-align: left;
+        text-transform: uppercase;}
+         */
+
+         /* cursor styles */
+         a {
+            cursor: move;}
